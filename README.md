@@ -1,8 +1,8 @@
 
 # `object_to_array` helper function
 
-[![Build Status](https://travis-ci.org/DivineOmega/object_to_array.svg?branch=master)](https://travis-ci.org/DivineOmega/object_to_array)
-[![Coverage Status](https://coveralls.io/repos/github/DivineOmega/object_to_array/badge.svg?branch=master)](https://coveralls.io/github/DivineOmega/object_to_array?branch=master)
+[![Build Status](https://travis-ci.org/Jord-JD/object_to_array.svg?branch=master)](https://travis-ci.org/Jord-JD/object_to_array)
+[![Coverage Status](https://coveralls.io/repos/github/Jord-JD/object_to_array/badge.svg?branch=master)](https://coveralls.io/github/Jord-JD/object_to_array?branch=master)
 [![StyleCI](https://styleci.io/repos/121260505/shield?branch=master)](https://styleci.io/repos/121260505)
 
 This PHP package provides an `object_to_array` helper function. You can use this function to convert an object to an array.
@@ -12,7 +12,7 @@ This PHP package provides an `object_to_array` helper function. You can use this
 The `object_to_array` package can be easily installed using Composer. Just run the following command from the root of your project.
 
 ```
-composer require "divineomega/object_to_array"
+composer require "jord-jd/object_to_array"
 ```
 
 If you have never used the Composer dependency manager before, head to the [Composer website](https://getcomposer.org/) for more information on how to get started.
