@@ -9,9 +9,7 @@
     }
   ],
   "require-dev": {
-    "phpunit/phpunit": "^7.0 || ^8.0",
-    "fzaninotto/faker": "^1.6",
-    "php-coveralls/php-coveralls": "^2.0"
+    "phpunit/phpunit": "^7.5 || ^9.6 || ^10.5 || ^11.5 || ^12.0"
   },
   "autoload": {
     "files": [
@@ -32,7 +30,12 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "3.0-dev"
+      "dev-master": "3.x-dev"
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "kylekatarnls/update-helper": false
     }
   }
 }
